@@ -27,7 +27,7 @@ git clone https://github.com/VenesaOkuna/Renta.git
       pip install -r requirements.txt
       ```
 
-3. **Install PostgreSQL in your Ubuntu 18.04**
+3. **Install PostgreSQL in your Ubuntu 20.04**
 
    1. Enable PostgreSQL Apt Repository
 

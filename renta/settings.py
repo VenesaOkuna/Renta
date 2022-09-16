@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'realtors',
     'contacts',
     'accounts',
     'django.contrib.admin',
